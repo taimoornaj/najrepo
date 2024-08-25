@@ -1,0 +1,1492 @@
+{
+  "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive",
+  "reactNativePath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native",
+  "reactNativeVersion": "0.75",
+  "dependencies": {
+    "@react-native-community/async-storage": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\async-storage",
+      "name": "@react-native-community/async-storage",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\async-storage\\RNCAsyncStorage.podspec",
+          "version": "1.12.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\async-storage\\android",
+          "packageImportPath": "import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;",
+          "packageInstance": "new AsyncStoragePackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/checkbox": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\checkbox",
+      "name": "@react-native-community/checkbox",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\checkbox\\RNCCheckbox.podspec",
+          "version": "0.5.17",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\checkbox\\android",
+          "packageImportPath": "import com.reactnativecommunity.checkbox.ReactCheckBoxPackage;",
+          "packageInstance": "new ReactCheckBoxPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/checkbox/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/clipboard": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\clipboard",
+      "name": "@react-native-community/clipboard",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\clipboard\\RNCClipboard.podspec",
+          "version": "1.5.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\clipboard\\android",
+          "packageImportPath": "import com.reactnativecommunity.clipboard.ClipboardPackage;",
+          "packageInstance": "new ClipboardPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/clipboard/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/datetimepicker": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\datetimepicker",
+      "name": "@react-native-community/datetimepicker",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\datetimepicker\\RNDateTimePicker.podspec",
+          "version": "6.7.5",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\datetimepicker\\android",
+          "packageImportPath": "import com.reactcommunity.rndatetimepicker.RNDateTimePickerPackage;",
+          "packageInstance": "new RNDateTimePickerPackage()",
+          "buildTypes": [],
+          "libraryName": "RNDateTimePicker",
+          "componentDescriptors": [
+            "RNDateTimePickerComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/datetimepicker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/picker": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\picker",
+      "name": "@react-native-community/picker",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\picker\\RNCPicker.podspec",
+          "version": "1.8.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\picker\\android",
+          "packageImportPath": "import com.reactnativecommunity.picker.RNCPickerPackage;",
+          "packageInstance": "new RNCPickerPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/progress-bar-android": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\progress-bar-android",
+      "name": "@react-native-community/progress-bar-android",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\progress-bar-android\\react-native-progress-bar-android.podspec",
+          "version": "1.0.5",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\progress-bar-android\\android",
+          "packageImportPath": "import com.reactnativecommunity.androidprogressbar.RNCProgressBarPackage;",
+          "packageInstance": "new RNCProgressBarPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/progress-bar-android/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/progress-view": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\progress-view",
+      "name": "@react-native-community/progress-view",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\progress-view\\react-native-progress-view.podspec",
+          "version": "1.4.2",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\progress-view\\android",
+          "packageImportPath": "import com.reactnativecommunity.progressview.RNCProgressViewPackage;",
+          "packageInstance": "new RNCProgressViewPackage()",
+          "buildTypes": [],
+          "libraryName": "progressview",
+          "componentDescriptors": [
+            "RNCProgressViewComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-community/progress-view/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@react-native-community/push-notification-ios": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\push-notification-ios",
+      "name": "@react-native-community/push-notification-ios",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-community\\push-notification-ios\\RNCPushNotificationIOS.podspec",
+          "version": "1.11.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": null
+      }
+    },
+    "@react-native-masked-view/masked-view": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-masked-view\\masked-view",
+      "name": "@react-native-masked-view/masked-view",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-masked-view\\masked-view\\RNCMaskedView.podspec",
+          "version": "0.2.9",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@react-native-masked-view\\masked-view\\android",
+          "packageImportPath": "import org.reactnative.maskedview.RNCMaskedViewPackage;",
+          "packageInstance": "new RNCMaskedViewPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@react-native-masked-view/masked-view/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "@shopify/flash-list": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@shopify\\flash-list",
+      "name": "@shopify/flash-list",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@shopify\\flash-list\\RNFlashList.podspec",
+          "version": "1.7.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\@shopify\\flash-list\\android",
+          "packageImportPath": "import com.shopify.reactnative.flash_list.ReactNativeFlashListPackage;",
+          "packageInstance": "new ReactNativeFlashListPackage()",
+          "buildTypes": [],
+          "libraryName": "rnflashlist",
+          "componentDescriptors": [
+            "AutoLayoutViewComponentDescriptor",
+            "CellContainerComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/@shopify/flash-list/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "lottie-react-native": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\lottie-react-native",
+      "name": "lottie-react-native",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\lottie-react-native\\lottie-react-native.podspec",
+          "version": "5.1.6",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\lottie-react-native\\src\\android",
+          "packageImportPath": "import com.airbnb.android.react.lottie.LottiePackage;",
+          "packageInstance": "new LottiePackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/lottie-react-native/src/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-audio-recorder-player": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-audio-recorder-player",
+      "name": "react-native-audio-recorder-player",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-audio-recorder-player\\RNAudioRecorderPlayer.podspec",
+          "version": "3.6.10",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-audio-recorder-player\\android",
+          "packageImportPath": "import com.dooboolab.audiorecorderplayer.RNAudioRecorderPlayerPackage;",
+          "packageInstance": "new RNAudioRecorderPlayerPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-audio-recorder-player/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-blob-util": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-blob-util",
+      "name": "react-native-blob-util",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-blob-util\\react-native-blob-util.podspec",
+          "version": "0.17.3",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-blob-util\\android",
+          "packageImportPath": "import com.ReactNativeBlobUtil.ReactNativeBlobUtilPackage;",
+          "packageInstance": "new ReactNativeBlobUtilPackage()",
+          "buildTypes": [],
+          "libraryName": "ReactNativeBlobUtilSpec",
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-blob-util/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-device-info": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-device-info",
+      "name": "react-native-device-info",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-device-info\\RNDeviceInfo.podspec",
+          "version": "10.14.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-device-info\\android",
+          "packageImportPath": "import com.learnium.RNDeviceInfo.RNDeviceInfo;",
+          "packageInstance": "new RNDeviceInfo()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-device-info/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-document-picker": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-document-picker",
+      "name": "react-native-document-picker",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-document-picker\\react-native-document-picker.podspec",
+          "version": "8.2.2",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-document-picker\\android",
+          "packageImportPath": "import com.reactnativedocumentpicker.DocumentPickerPackage;",
+          "packageInstance": "new DocumentPickerPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-document-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-drop-shadow": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-drop-shadow",
+      "name": "react-native-drop-shadow",
+      "platforms": {
+        "ios": null,
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-drop-shadow\\android",
+          "packageImportPath": "import com.dropShadow.DropShadowPackage;",
+          "packageInstance": "new DropShadowPackage()",
+          "buildTypes": [],
+          "libraryName": "DropShadow",
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-drop-shadow/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-fast-image": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-fast-image",
+      "name": "react-native-fast-image",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-fast-image\\RNFastImage.podspec",
+          "version": "8.6.3",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-fast-image\\android",
+          "packageImportPath": "import com.dylanvann.fastimage.FastImageViewPackage;",
+          "packageInstance": "new FastImageViewPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-fast-image/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-fs": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-fs",
+      "name": "react-native-fs",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-fs\\RNFS.podspec",
+          "version": "2.20.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-fs\\android",
+          "packageImportPath": "import com.rnfs.RNFSPackage;",
+          "packageInstance": "new RNFSPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-fs/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-gesture-handler": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-gesture-handler",
+      "name": "react-native-gesture-handler",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-gesture-handler\\RNGestureHandler.podspec",
+          "version": "2.18.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-gesture-handler\\android",
+          "packageImportPath": "import com.swmansion.gesturehandler.RNGestureHandlerPackage;",
+          "packageInstance": "new RNGestureHandlerPackage()",
+          "buildTypes": [],
+          "libraryName": "rngesturehandler_codegen",
+          "componentDescriptors": [
+            "RNGestureHandlerButtonComponentDescriptor",
+            "RNGestureHandlerRootViewComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-i18n": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-i18n",
+      "name": "react-native-i18n",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-i18n\\RNI18n.podspec",
+          "version": "2.0.15",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-i18n\\android",
+          "packageImportPath": "import com.AlexanderZaytsev.RNI18n.RNI18nPackage;",
+          "packageInstance": "new RNI18nPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-i18n/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-image-base64": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-base64",
+      "name": "react-native-image-base64",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-base64\\react-native-image-base64.podspec",
+          "version": "0.1.4",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-base64\\android",
+          "packageImportPath": "import fr.snapp.imagebase64.RNImgToBase64Package;",
+          "packageInstance": "new RNImgToBase64Package()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-image-base64/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-image-crop-picker": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-crop-picker",
+      "name": "react-native-image-crop-picker",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-crop-picker\\RNImageCropPicker.podspec",
+          "version": "0.40.3",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-crop-picker\\android",
+          "packageImportPath": "import com.reactnative.ivpusic.imagepicker.PickerPackage;",
+          "packageInstance": "new PickerPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-image-crop-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-image-picker": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-picker",
+      "name": "react-native-image-picker",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-picker\\react-native-image-picker.podspec",
+          "version": "5.7.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-image-picker\\android",
+          "packageImportPath": "import com.imagepicker.ImagePickerPackage;",
+          "packageInstance": "new ImagePickerPackage()",
+          "buildTypes": [],
+          "libraryName": "RNImagePickerSpec",
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-keychain": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-keychain",
+      "name": "react-native-keychain",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-keychain\\RNKeychain.podspec",
+          "version": "8.2.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-keychain\\android",
+          "packageImportPath": "import com.oblador.keychain.KeychainPackage;",
+          "packageInstance": "new KeychainPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-keychain/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-linear-gradient": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-linear-gradient",
+      "name": "react-native-linear-gradient",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-linear-gradient\\BVLinearGradient.podspec",
+          "version": "2.8.3",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-linear-gradient\\android",
+          "packageImportPath": "import com.BV.LinearGradient.LinearGradientPackage;",
+          "packageInstance": "new LinearGradientPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-linear-gradient/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-localize": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-localize",
+      "name": "react-native-localize",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-localize\\RNLocalize.podspec",
+          "version": "2.2.6",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-localize\\android",
+          "packageImportPath": "import com.zoontek.rnlocalize.RNLocalizePackage;",
+          "packageInstance": "new RNLocalizePackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-localize/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-notifications": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-notifications",
+      "name": "react-native-notifications",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-notifications\\react-native-notifications.podspec",
+          "version": "4.3.5",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-notifications\\lib\\android\\app",
+          "packageImportPath": "import com.wix.reactnativenotifications.RNNotificationsPackage;",
+          "packageInstance": "new RNNotificationsPackage(reactNativeHost.getApplication())",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-notifications/lib/android/app/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-pager-view": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-pager-view",
+      "name": "react-native-pager-view",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-pager-view\\react-native-pager-view.podspec",
+          "version": "6.4.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-pager-view\\android",
+          "packageImportPath": "import com.reactnativepagerview.PagerViewPackage;",
+          "packageInstance": "new PagerViewPackage()",
+          "buildTypes": [],
+          "libraryName": "pagerview",
+          "componentDescriptors": [
+            "LEGACY_RNCViewPagerComponentDescriptor",
+            "RNCViewPagerComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-pager-view/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-pdf": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-pdf",
+      "name": "react-native-pdf",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-pdf\\react-native-pdf.podspec",
+          "version": "6.7.5",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-pdf\\android",
+          "packageImportPath": "import org.wonday.pdf.RNPDFPackage;",
+          "packageInstance": "new RNPDFPackage()",
+          "buildTypes": [],
+          "libraryName": "rnpdf",
+          "componentDescriptors": [
+            "RNPDFPdfViewComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-pdf/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-push-notification": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-push-notification",
+      "name": "react-native-push-notification",
+      "platforms": {
+        "ios": null,
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-push-notification\\android",
+          "packageImportPath": "import com.dieam.reactnativepushnotification.ReactNativePushNotificationPackage;",
+          "packageInstance": "new ReactNativePushNotificationPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-push-notification/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-reanimated": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-reanimated",
+      "name": "react-native-reanimated",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-reanimated\\RNReanimated.podspec",
+          "version": "3.15.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-reanimated\\android",
+          "packageImportPath": "import com.swmansion.reanimated.ReanimatedPackage;",
+          "packageInstance": "new ReanimatedPackage()",
+          "buildTypes": [],
+          "libraryName": "rnreanimated",
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-reanimated/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-restart": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-restart",
+      "name": "react-native-restart",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-restart\\react-native-restart.podspec",
+          "version": "0.0.24",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-restart\\android",
+          "packageImportPath": "import com.reactnativerestart.RestartPackage;",
+          "packageInstance": "new RestartPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-restart/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-screens": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-screens",
+      "name": "react-native-screens",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-screens\\RNScreens.podspec",
+          "version": "3.34.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-screens\\android",
+          "packageImportPath": "import com.swmansion.rnscreens.RNScreensPackage;",
+          "packageInstance": "new RNScreensPackage()",
+          "buildTypes": [],
+          "libraryName": "rnscreens",
+          "componentDescriptors": [
+            "RNSFullWindowOverlayComponentDescriptor",
+            "RNSScreenContainerComponentDescriptor",
+            "RNSScreenNavigationContainerComponentDescriptor",
+            "RNSScreenStackHeaderConfigComponentDescriptor",
+            "RNSScreenStackHeaderSubviewComponentDescriptor",
+            "RNSScreenStackComponentDescriptor",
+            "RNSSearchBarComponentDescriptor",
+            "RNSScreenComponentDescriptor",
+            "RNSModalScreenComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-share": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-share",
+      "name": "react-native-share",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-share\\RNShare.podspec",
+          "version": "7.9.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-share\\android",
+          "packageImportPath": "import cl.json.RNSharePackage;",
+          "packageInstance": "new RNSharePackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-share/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-shared-element": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-shared-element",
+      "name": "react-native-shared-element",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-shared-element\\RNSharedElement.podspec",
+          "version": "0.8.9",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-shared-element\\android",
+          "packageImportPath": "import com.ijzerenhein.sharedelement.RNSharedElementPackage;",
+          "packageInstance": "new RNSharedElementPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-shared-element/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-sound-player": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-sound-player",
+      "name": "react-native-sound-player",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-sound-player\\RNSoundPlayer.podspec",
+          "version": "0.14.3",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-sound-player\\android",
+          "packageImportPath": "import com.johnsonsu.rnsoundplayer.RNSoundPlayerPackage;",
+          "packageInstance": "new RNSoundPlayerPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-sound-player/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-svg": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-svg",
+      "name": "react-native-svg",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-svg\\RNSVG.podspec",
+          "version": "13.14.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-svg\\android",
+          "packageImportPath": "import com.horcrux.svg.SvgPackage;",
+          "packageInstance": "new SvgPackage()",
+          "buildTypes": [],
+          "libraryName": "rnsvg",
+          "componentDescriptors": [
+            "RNSVGSvgViewAndroidComponentDescriptor",
+            "RNSVGCircleComponentDescriptor",
+            "RNSVGClipPathComponentDescriptor",
+            "RNSVGDefsComponentDescriptor",
+            "RNSVGEllipseComponentDescriptor",
+            "RNSVGForeignObjectComponentDescriptor",
+            "RNSVGGroupComponentDescriptor",
+            "RNSVGSvgViewComponentDescriptor",
+            "RNSVGLinearGradientComponentDescriptor",
+            "RNSVGLineComponentDescriptor",
+            "RNSVGMarkerComponentDescriptor",
+            "RNSVGMaskComponentDescriptor",
+            "RNSVGPathComponentDescriptor",
+            "RNSVGPatternComponentDescriptor",
+            "RNSVGRadialGradientComponentDescriptor",
+            "RNSVGRectComponentDescriptor",
+            "RNSVGSymbolComponentDescriptor",
+            "RNSVGTextComponentDescriptor",
+            "RNSVGTextPathComponentDescriptor",
+            "RNSVGTSpanComponentDescriptor",
+            "RNSVGUseComponentDescriptor"
+          ],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-svg/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-vector-icons": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-vector-icons",
+      "name": "react-native-vector-icons",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-vector-icons\\RNVectorIcons.podspec",
+          "version": "9.2.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-vector-icons\\android",
+          "packageImportPath": "import com.oblador.vectoricons.VectorIconsPackage;",
+          "packageInstance": "new VectorIconsPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-version-check": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-version-check",
+      "name": "react-native-version-check",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-version-check\\react-native-version-check.podspec",
+          "version": "3.4.7",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-version-check\\android",
+          "packageImportPath": "import io.xogus.reactnative.versioncheck.RNVersionCheckPackage;",
+          "packageInstance": "new RNVersionCheckPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-version-check/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "react-native-webview": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-webview",
+      "name": "react-native-webview",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-webview\\react-native-webview.podspec",
+          "version": "11.26.1",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\react-native-webview\\android",
+          "packageImportPath": "import com.reactnativecommunity.webview.RNCWebViewPackage;",
+          "packageInstance": "new RNCWebViewPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    },
+    "rn-fetch-blob": {
+      "root": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\rn-fetch-blob",
+      "name": "rn-fetch-blob",
+      "platforms": {
+        "ios": {
+          "podspecPath": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\rn-fetch-blob\\rn-fetch-blob.podspec",
+          "version": "0.12.0",
+          "configurations": [],
+          "scriptPhases": []
+        },
+        "android": {
+          "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\node_modules\\rn-fetch-blob\\android",
+          "packageImportPath": "import com.RNFetchBlob.RNFetchBlobPackage;",
+          "packageInstance": "new RNFetchBlobPackage()",
+          "buildTypes": [],
+          "componentDescriptors": [],
+          "cmakeListsPath": "C:/Users/Nejoum/Downloads/RNMU/Archive/node_modules/rn-fetch-blob/android/build/generated/source/codegen/jni/CMakeLists.txt",
+          "cxxModuleCMakeListsModuleName": null,
+          "cxxModuleCMakeListsPath": null,
+          "cxxModuleHeaderName": null,
+          "isPureCxxDependency": false
+        }
+      }
+    }
+  },
+  "commands": [
+    {
+      "name": "bundle",
+      "description": "Build the bundle for the provided JavaScript entry file.",
+      "options": [
+        {
+          "name": "--entry-file <path>",
+          "description": "Path to the root JS file, either absolute or relative to JS root"
+        },
+        {
+          "name": "--platform <string>",
+          "description": "Either \"ios\" or \"android\"",
+          "default": "ios"
+        },
+        {
+          "name": "--transformer <string>",
+          "description": "Specify a custom transformer to be used"
+        },
+        {
+          "name": "--dev [boolean]",
+          "description": "If false, warnings are disabled and the bundle is minified",
+          "default": true
+        },
+        {
+          "name": "--minify [boolean]",
+          "description": "Allows overriding whether bundle is minified. This defaults to false if dev is true, and true if dev is false. Disabling minification can be useful for speeding up production builds for testing purposes."
+        },
+        {
+          "name": "--bundle-output <string>",
+          "description": "File name where to store the resulting bundle, ex. /tmp/groups.bundle"
+        },
+        {
+          "name": "--bundle-encoding <string>",
+          "description": "Encoding the bundle should be written in (https://nodejs.org/api/buffer.html#buffer_buffer).",
+          "default": "utf8"
+        },
+        {
+          "name": "--max-workers <number>",
+          "description": "Specifies the maximum number of workers the worker-pool will spawn for transforming files. This defaults to the number of the cores available on your machine."
+        },
+        {
+          "name": "--sourcemap-output <string>",
+          "description": "File name where to store the sourcemap file for resulting bundle, ex. /tmp/groups.map"
+        },
+        {
+          "name": "--sourcemap-sources-root <string>",
+          "description": "Path to make sourcemap's sources entries relative to, ex. /root/dir"
+        },
+        {
+          "name": "--sourcemap-use-absolute-path",
+          "description": "Report SourceMapURL using its full path",
+          "default": false
+        },
+        {
+          "name": "--assets-dest <string>",
+          "description": "Directory name where to store assets referenced in the bundle"
+        },
+        {
+          "name": "--unstable-transform-profile <string>",
+          "description": "Experimental, transform JS for a specific JS engine. Currently supported: hermes, hermes-canary, default",
+          "default": "default"
+        },
+        {
+          "name": "--asset-catalog-dest [string]",
+          "description": "Path where to create an iOS Asset Catalog for images"
+        },
+        {
+          "name": "--reset-cache",
+          "description": "Removes cached files",
+          "default": false
+        },
+        {
+          "name": "--read-global-cache",
+          "description": "Try to fetch transformed JS code from the global cache, if configured.",
+          "default": false
+        },
+        {
+          "name": "--config <string>",
+          "description": "Path to the CLI configuration file"
+        },
+        {
+          "name": "--resolver-option <string...>",
+          "description": "Custom resolver options of the form key=value. URL-encoded. May be specified multiple times."
+        }
+      ]
+    },
+    {
+      "name": "start",
+      "description": "Start the React Native development server.",
+      "options": [
+        {
+          "name": "--port <number>"
+        },
+        {
+          "name": "--host <string>",
+          "default": ""
+        },
+        {
+          "name": "--projectRoot <path>",
+          "description": "Path to a custom project root"
+        },
+        {
+          "name": "--watchFolders <list>",
+          "description": "Specify any additional folders to be added to the watch list"
+        },
+        {
+          "name": "--assetPlugins <list>",
+          "description": "Specify any additional asset plugins to be used by the packager by full filepath"
+        },
+        {
+          "name": "--sourceExts <list>",
+          "description": "Specify any additional source extensions to be used by the packager"
+        },
+        {
+          "name": "--max-workers <number>",
+          "description": "Specifies the maximum number of workers the worker-pool will spawn for transforming files. This defaults to the number of the cores available on your machine."
+        },
+        {
+          "name": "--transformer <string>",
+          "description": "Specify a custom transformer to be used"
+        },
+        {
+          "name": "--reset-cache, --resetCache",
+          "description": "Removes cached files"
+        },
+        {
+          "name": "--custom-log-reporter-path, --customLogReporterPath <string>",
+          "description": "Path to a JavaScript file that exports a log reporter as a replacement for TerminalReporter"
+        },
+        {
+          "name": "--https",
+          "description": "Enables https connections to the server"
+        },
+        {
+          "name": "--key <path>",
+          "description": "Path to custom SSL key"
+        },
+        {
+          "name": "--cert <path>",
+          "description": "Path to custom SSL cert"
+        },
+        {
+          "name": "--config <string>",
+          "description": "Path to the CLI configuration file"
+        },
+        {
+          "name": "--no-interactive",
+          "description": "Disables interactive mode"
+        },
+        {
+          "name": "--experimental-debugger",
+          "description": "[Experimental] Enable the new debugger experience and 'j' to debug. This enables the new frontend experience only: connection reliability and some basic features are unstable in this release."
+        }
+      ]
+    },
+    {
+      "name": "codegen",
+      "options": [
+        {
+          "name": "--path <path>",
+          "description": "Path to the React Native project root.",
+          "default": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive"
+        },
+        {
+          "name": "--platform <string>",
+          "description": "Target platform. Supported values: \"android\", \"ios\", \"all\".",
+          "default": "all"
+        },
+        {
+          "name": "--outputPath <path>",
+          "description": "Path where generated artifacts will be output to."
+        }
+      ]
+    },
+    {
+      "name": "log-ios",
+      "description": "starts iOS device syslog tail",
+      "options": [
+        {
+          "name": "-i --interactive",
+          "description": "Explicitly select simulator to tail logs from. By default it will tail logs from the first booted and available simulator."
+        }
+      ]
+    },
+    {
+      "name": "run-ios",
+      "description": "builds your app and starts it on iOS simulator",
+      "examples": [
+        {
+          "desc": "Run on a different simulator, e.g. iPhone SE (2nd generation)",
+          "cmd": "npx react-native run-ios --simulator \"iPhone SE (2nd generation)\""
+        },
+        {
+          "desc": "Run on a connected device, e.g. Max's iPhone",
+          "cmd": "npx react-native run-ios --device \"Max's iPhone\""
+        },
+        {
+          "desc": "Run on the AppleTV simulator",
+          "cmd": "npx react-native run-ios --simulator \"Apple TV\"  --scheme \"helloworld-tvOS\""
+        }
+      ],
+      "options": [
+        {
+          "name": "--no-packager",
+          "description": "Do not launch packager while running the app"
+        },
+        {
+          "name": "--port <number>",
+          "default": 8081
+        },
+        {
+          "name": "--terminal <string>",
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
+          "default": "cmd.exe"
+        },
+        {
+          "name": "--binary-path <string>",
+          "description": "Path relative to project root where pre-built .app binary lives."
+        },
+        {
+          "name": "--list-devices",
+          "description": "List all available iOS devices and simulators and let you choose one to run the app. "
+        },
+        {
+          "name": "--udid <string>",
+          "description": "Explicitly set the device to use by UDID"
+        },
+        {
+          "name": "--simulator <string>",
+          "description": "Explicitly set the simulator to use. Optionally set the iOS version between parentheses at the end to match an exact version: \"iPhone 15 (17.0)\""
+        },
+        {
+          "name": "--device [string]",
+          "description": "Explicitly set the device to use by name or by unique device identifier . If the value is not provided,the app will run on the first available physical device."
+        },
+        {
+          "name": "--mode <string>",
+          "description": "Explicitly set the scheme configuration to use. This option is case sensitive."
+        },
+        {
+          "name": "--scheme <string>",
+          "description": "Explicitly set Xcode scheme to use"
+        },
+        {
+          "name": "--destination <string>",
+          "description": "Explicitly extend destination e.g. \"arch=x86_64\""
+        },
+        {
+          "name": "--verbose",
+          "description": "Do not use xcbeautify or xcpretty even if installed"
+        },
+        {
+          "name": "--xcconfig [string]",
+          "description": "Explicitly set xcconfig to use"
+        },
+        {
+          "name": "--buildFolder <string>",
+          "description": "Location for iOS build artifacts. Corresponds to Xcode's \"-derivedDataPath\"."
+        },
+        {
+          "name": "--extra-params <string>",
+          "description": "Custom params that will be passed to xcodebuild command."
+        },
+        {
+          "name": "--target <string>",
+          "description": "Explicitly set Xcode target to use."
+        },
+        {
+          "name": "-i --interactive",
+          "description": "Explicitly select which scheme and configuration to use before running a build"
+        },
+        {
+          "name": "--force-pods",
+          "description": "Force CocoaPods installation"
+        }
+      ]
+    },
+    {
+      "name": "build-ios",
+      "description": "builds your app for iOS platform",
+      "examples": [
+        {
+          "desc": "Build the app for all iOS devices in Release mode",
+          "cmd": "npx react-native build-ios --mode \"Release\""
+        }
+      ],
+      "options": [
+        {
+          "name": "--mode <string>",
+          "description": "Explicitly set the scheme configuration to use. This option is case sensitive."
+        },
+        {
+          "name": "--scheme <string>",
+          "description": "Explicitly set Xcode scheme to use"
+        },
+        {
+          "name": "--destination <string>",
+          "description": "Explicitly extend destination e.g. \"arch=x86_64\""
+        },
+        {
+          "name": "--verbose",
+          "description": "Do not use xcbeautify or xcpretty even if installed"
+        },
+        {
+          "name": "--xcconfig [string]",
+          "description": "Explicitly set xcconfig to use"
+        },
+        {
+          "name": "--buildFolder <string>",
+          "description": "Location for iOS build artifacts. Corresponds to Xcode's \"-derivedDataPath\"."
+        },
+        {
+          "name": "--extra-params <string>",
+          "description": "Custom params that will be passed to xcodebuild command."
+        },
+        {
+          "name": "--target <string>",
+          "description": "Explicitly set Xcode target to use."
+        },
+        {
+          "name": "-i --interactive",
+          "description": "Explicitly select which scheme and configuration to use before running a build"
+        },
+        {
+          "name": "--force-pods",
+          "description": "Force CocoaPods installation"
+        }
+      ]
+    },
+    {
+      "name": "log-android",
+      "description": "starts logkitty"
+    },
+    {
+      "name": "run-android",
+      "description": "builds your app and starts it on a connected Android emulator or device",
+      "options": [
+        {
+          "name": "--mode <string>",
+          "description": "Specify your app's build variant"
+        },
+        {
+          "name": "--tasks <list>",
+          "description": "Run custom Gradle tasks. By default it's \"assembleDebug\". Will override passed mode and variant arguments."
+        },
+        {
+          "name": "--active-arch-only",
+          "description": "Build native libraries only for the current device architecture for debug builds.",
+          "default": false
+        },
+        {
+          "name": "--extra-params <string>",
+          "description": "Custom params passed to gradle build command"
+        },
+        {
+          "name": "-i --interactive",
+          "description": "Explicitly select build type and flavour to use before running a build"
+        },
+        {
+          "name": "--no-packager",
+          "description": "Do not launch packager while running the app"
+        },
+        {
+          "name": "--port <number>",
+          "default": 8081
+        },
+        {
+          "name": "--terminal <string>",
+          "description": "Launches the Metro Bundler in a new window using the specified terminal path.",
+          "default": "cmd.exe"
+        },
+        {
+          "name": "--appId <string>",
+          "description": "Specify an applicationId to launch after build. If not specified, `package` from AndroidManifest.xml will be used.",
+          "default": ""
+        },
+        {
+          "name": "--appIdSuffix <string>",
+          "description": "Specify an applicationIdSuffix to launch after build.",
+          "default": ""
+        },
+        {
+          "name": "--main-activity <string>",
+          "description": "Name of the activity to start"
+        },
+        {
+          "name": "--device <string>",
+          "description": "Explicitly set the device to use by name. The value is not required if you have a single device connected."
+        },
+        {
+          "name": "--deviceId <string>",
+          "description": "**DEPRECATED** Builds your app and starts it on a specific device/simulator with the given device id (listed by running \"adb devices\" on the command line)."
+        },
+        {
+          "name": "--list-devices",
+          "description": "Lists all available Android devices and simulators and let you choose one to run the app",
+          "default": false
+        },
+        {
+          "name": "--binary-path <string>",
+          "description": "Path relative to project root where pre-built .apk binary lives."
+        },
+        {
+          "name": "--user <number>",
+          "description": "Id of the User Profile you want to install the app on."
+        }
+      ]
+    },
+    {
+      "name": "build-android",
+      "description": "builds your app",
+      "options": [
+        {
+          "name": "--mode <string>",
+          "description": "Specify your app's build variant"
+        },
+        {
+          "name": "--tasks <list>",
+          "description": "Run custom Gradle tasks. By default it's \"assembleDebug\". Will override passed mode and variant arguments."
+        },
+        {
+          "name": "--active-arch-only",
+          "description": "Build native libraries only for the current device architecture for debug builds.",
+          "default": false
+        },
+        {
+          "name": "--extra-params <string>",
+          "description": "Custom params passed to gradle build command"
+        },
+        {
+          "name": "-i --interactive",
+          "description": "Explicitly select build type and flavour to use before running a build"
+        }
+      ]
+    }
+  ],
+  "healthChecks": [],
+  "platforms": {
+    "ios": {},
+    "android": {}
+  },
+  "assets": [
+    "./assets/fonts/"
+  ],
+  "project": {
+    "ios": {
+      "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\ios",
+      "xcodeProject": {
+        "name": "nejoumApp.xcworkspace",
+        "path": ".",
+        "isWorkspace": true
+      },
+      "assets": []
+    },
+    "android": {
+      "sourceDir": "C:\\Users\\Nejoum\\Downloads\\RNMU\\Archive\\android",
+      "appName": "app",
+      "packageName": "com.nejoumapp",
+      "applicationId": "com.nejoumapp",
+      "mainActivity": ".MainActivity",
+      "assets": []
+    }
+  }
+}

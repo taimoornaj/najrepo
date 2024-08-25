@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nejoumapp-mergeDebugResources-42:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Nejoum\\.gradle\\caches\\8.8\\transforms\\dea268423a84f6f81acf682eb304fba7\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

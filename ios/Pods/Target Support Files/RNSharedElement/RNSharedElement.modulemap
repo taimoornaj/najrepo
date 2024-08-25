@@ -1,0 +1,6 @@
+framework module RNSharedElement {
+  umbrella header "RNSharedElement-umbrella.h"
+
+  export *
+  module * { export * }
+}

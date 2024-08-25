@@ -1,0 +1,6 @@
+framework module react_native_progress_view {
+  umbrella header "react-native-progress-view-umbrella.h"
+
+  export *
+  module * { export * }
+}

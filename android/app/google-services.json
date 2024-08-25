@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838558519710",
+    "firebase_url": "https://nejoum-aljazeera-2e42e.firebaseio.com",
+    "project_id": "nejoum-aljazeera-2e42e",
+    "storage_bucket": "nejoum-aljazeera-2e42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838558519710:android:412aeb032983dacc71c68f",
+        "android_client_info": {
+          "package_name": "com.nejoumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838558519710-kmok2oicb54j80ddbkkmp126cb1qoavv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUYvuuhFSuEzGd7QCnGIYA0rLeKhmcXuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838558519710-kmok2oicb54j80ddbkkmp126cb1qoavv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
